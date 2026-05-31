@@ -20,7 +20,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../lib/PedroPathing.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/RoadRunner.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -29,10 +29,12 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../lib/RoadRunner.jar!/" />
+          <root url="jar://$MODULE_DIR$/../lib/Pedropathing.jar!/" />
         </CLASSES>
         <JAVADOC />
-        <SOURCES />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../lib/Pedropathing.jar!/" />
+        </SOURCES>
       </library>
     </orderEntry>
   </component>
