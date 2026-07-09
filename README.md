@@ -1,4 +1,4 @@
-# A 2D simulator to help beginning Java programmers learn to program for FTC Robotics..
+# A 2D simulator to help beginning Java programmers learn to program for FTC Robotics
 
 Now supports RoadRunner v1.0.1 AND PedroPathing v2.0.4, including facsimiles of the 
 Quickstart teamcode for each. For both RR and PP, tuning has been done for 
